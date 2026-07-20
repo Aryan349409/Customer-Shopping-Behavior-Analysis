@@ -51,7 +51,7 @@ This project analyzes customer shopping behavior to uncover purchasing patterns,
 
 # 📊 Dashboard Preview
 
-![Dashboard](dashboard_preview.png)
+![Dashboard](Dashboard/dashboard_preview.png)
 
 ---
 
